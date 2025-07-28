@@ -17,3 +17,5 @@ This project demonstrates how to use React props and state to build an interacti
   but I am enjoying my time with React. This is what I wanted to learn how to do; make dynamic apps.
 
 ## Screenshot
+<img width="611" height="936" alt="image" src="https://github.com/user-attachments/assets/00980a5c-6dc5-4ce5-9ee5-8f6f38183737" />
+<img width="846" height="954" alt="image" src="https://github.com/user-attachments/assets/d3a8fefa-ceaa-44a6-bfd2-0c8ecb73aca7" />
